@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Bem-vindo! O propósito deste blog"
 date: 2025-10-19
 ---
